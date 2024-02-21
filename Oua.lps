@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="Oua.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="13"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="_Oua_.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="148"/>
+        <CursorPos Y="159"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="_Oua_.pas"/>
+        <Caret Line="91" Column="30" TopLine="74"/>
+      </Position>
+      <Position>
+        <Filename Value="_Oua_.pas"/>
+        <Caret Line="92" Column="30" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="_Oua_.pas"/>
+        <Caret Line="93" Column="30" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="_Oua_.pas"/>
+        <Caret Line="114" Column="30" TopLine="97"/>
+      </Position>
+      <Position>
+        <Filename Value="_Oua_.pas"/>
+        <Caret Line="113" Column="30" TopLine="96"/>
+      </Position>
+      <Position>
+        <Filename Value="_Oua_.pas"/>
+        <Caret Line="112" Column="30" TopLine="95"/>
+      </Position>
+      <Position>
+        <Filename Value="_Oua_.pas"/>
+        <Caret Line="111" Column="30" TopLine="94"/>
+      </Position>
+      <Position>
+        <Filename Value="_Oua_.pas"/>
+        <Caret Line="110" Column="30" TopLine="93"/>
+      </Position>
+      <Position>
+        <Filename Value="_Oua_.pas"/>
+        <Caret Line="109" Column="30" TopLine="92"/>
+      </Position>
+      <Position>
+        <Filename Value="_Oua_.pas"/>
+        <Caret Line="108" Column="30" TopLine="91"/>
+      </Position>
+      <Position>
+        <Filename Value="_Oua_.pas"/>
+        <Caret Line="107" Column="30" TopLine="90"/>
+      </Position>
+      <Position>
+        <Filename Value="_Oua_.pas"/>
+        <Caret Line="106" Column="30" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="_Oua_.pas"/>
+        <Caret Line="105" Column="30" TopLine="88"/>
+      </Position>
+      <Position>
+        <Filename Value="_Oua_.pas"/>
+        <Caret Line="104" Column="30" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="_Oua_.pas"/>
+        <Caret Line="103" Column="30" TopLine="86"/>
+      </Position>
+      <Position>
+        <Filename Value="_Oua_.pas"/>
+        <Caret Line="102" Column="30" TopLine="85"/>
+      </Position>
+      <Position>
+        <Filename Value="_Oua_.pas"/>
+        <Caret Line="101" Column="30" TopLine="84"/>
+      </Position>
+      <Position>
+        <Filename Value="_Oua_.pas"/>
+        <Caret Line="100" Column="30" TopLine="83"/>
+      </Position>
+      <Position>
+        <Filename Value="_Oua_.pas"/>
+        <Caret Line="99" Column="30" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="_Oua_.pas"/>
+        <Caret Line="98" Column="30" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="_Oua_.pas"/>
+        <Caret Line="97" Column="30" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="_Oua_.pas"/>
+        <Caret Line="96" Column="30" TopLine="79"/>
+      </Position>
+      <Position>
+        <Filename Value="_Oua_.pas"/>
+        <Caret Line="95" Column="30" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="_Oua_.pas"/>
+        <Caret Line="94" Column="30" TopLine="77"/>
+      </Position>
+      <Position>
+        <Filename Value="_Oua_.pas"/>
+        <Caret Line="93" Column="30" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="_Oua_.pas"/>
+        <Caret Line="114" Column="30" TopLine="97"/>
+      </Position>
+      <Position>
+        <Filename Value="_Oua_.pas"/>
+        <Caret Line="170" Column="89" TopLine="160"/>
+      </Position>
+      <Position>
+        <Filename Value="_Oua_.pas"/>
+        <Caret Line="168" Column="32" TopLine="161"/>
+      </Position>
+      <Position>
+        <Filename Value="_Oua_.pas"/>
+        <Caret Line="164" TopLine="155"/>
+      </Position>
+      <Position>
+        <Filename Value="_Oua_.pas"/>
+        <Caret Line="163" TopLine="154"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <SkipCheckLCLInterfaces Value="True"/>
+</CONFIG>
